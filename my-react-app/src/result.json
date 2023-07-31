@@ -1,0 +1,33 @@
+[
+    {
+     "Username": "jaindj2007@gmail.com",
+     "Unique Password": "62NCOA1003",
+     "Name": "Djain",
+     "Class": "XI",
+     "Sec  A": 100,
+     "Sec B ": 75,
+     "Sec C ": 32,
+     "Total": 207,
+     "User should put this": "User should get this"
+    },
+    {
+     "Username": "tarujain2003@gmail.com",
+     "Unique Password": "75NCOB2098",
+     "Name": "Taru ",
+     "Class": "XII",
+     "Sec  A": 116,
+     "Sec B ": 60,
+     "Sec C ": 28,
+     "Total": 204
+    },
+    {
+     "Username": "monijain2001@gmail.com",
+     "Unique Password": "10NCOC3214",
+     "Name": "Moni",
+     "Class": "XII Passout",
+     "Sec  A": 98,
+     "Sec B ": 107,
+     "Sec C ": 35,
+     "Total": 240
+    }
+   ]
